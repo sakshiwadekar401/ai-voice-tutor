@@ -1,6 +1,0 @@
-streamlit
-transformers
-torch
-openai-whisper
-pyttsx3
-gTTS
