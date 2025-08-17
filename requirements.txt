@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+openai-whisper
+pyttsx3
+gTTS
+streamlit-mic-recorder
+soundfile
+SpeechRecognition
+pyttsx3
